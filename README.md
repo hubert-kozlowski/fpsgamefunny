@@ -4,7 +4,7 @@ fpsgamefunny is a funny fps game
 kill the boys(or girls)
 
 # Download (Option 1)
-![Download](https://user-images.githubusercontent.com/19264/86286233-c8946380-bbee-11ea-930f-24a5db34423d.png)
+![Download](https://cdn.discordapp.com/attachments/769630731805786192/782238010124009492/unknown.png)
 
 Press **Code** and then **Download zip** to download the damn game.
 
