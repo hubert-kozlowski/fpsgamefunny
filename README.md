@@ -1,7 +1,7 @@
 # fpsgamefunny
 fpsgamefunny is a funny fps game
 
-kill the boys(or girls)
+kill the boys(or girls (only boys, we aint a simp))
 
 # Download (Option 1)
 ![Download](https://cdn.discordapp.com/attachments/769630731805786192/782238010124009492/unknown.png)
