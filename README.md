@@ -1,5 +1,5 @@
 # fpsgamefunny
-fpsgamefunny is a funny fps game
+Fpsgamefunny is a F(irst)P(erson)S(shooter) basically made for Speedrunning purposes. 
 
 kill the boys(or girls)
 
@@ -23,5 +23,6 @@ With this "method" of downloading you can download an older version if i make th
 
 # Speedrunning
 
-imagine if you speedrun this game.
+We are working on getting the game onto Speedrun.com. If you try to speedrun this game make sure to use a Timer and Record your run incase you actually get a new Record.
+Currently there are no Records for the new Version.
 
