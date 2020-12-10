@@ -4,16 +4,17 @@ Fpsgamefunny is a F(irst)P(erson)S(shooter) basically made for Speedrunning purp
 kill the boys(or girls)
 
 # Download (Option 1)
-![Download](https://cdn.discordapp.com/attachments/769630731805786192/782238010124009492/unknown.png)
+![Download](https://cdn.discordapp.com/attachments/747565630584127609/786599510251405325/unknown.png)
 
 Press **Code** and then **Download zip** to download the damn game.
 
 # Download (Option 2)
 
-![Releases](https://cdn.discordapp.com/attachments/769630731805786192/782236849594695700/unknown.png)
+![Releases](https://cdn.discordapp.com/attachments/747565630584127609/786599597601587220/unknown.png)
 Pick the version you want and press **Assets** and download the zip.
 
-![Download Release](https://cdn.discordapp.com/attachments/769630731805786192/782237263500804126/unknown.png)
+![Download Release](https://cdn.discordapp.com/attachments/747565630584127609/786599701474574376/unknown.png)
+![DownloadE](https://cdn.discordapp.com/attachments/747565630584127609/786599754657955900/unknown.png)
 
 With said method of Downloading the game you can choose older versions if you prefer them to speedrun or if the new version has bugs in it.
 
