@@ -15,7 +15,7 @@ Pick the version you want and press **Assets** and download the zip.
 
 ![Download Release](https://cdn.discordapp.com/attachments/769630731805786192/782237263500804126/unknown.png)
 
-With this "method" of downloading you can download an older version if i make the new versions shittier.
+With said method of Downloading the game you can choose older versions if you prefer them to speedrun or if the new version has bugs in it.
 
 
 
