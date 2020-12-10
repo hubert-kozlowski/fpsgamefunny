@@ -1,5 +1,5 @@
 # fpsgamefunny
-Fpsgamefunny is a F(irst)P(erson)S(shooter) basically made for Speedrunning purposes. 
+Fpsgamefunny is a **F**irst **P**erson **S**hooter basically made for Speedrunning purposes. 
 
 kill the boys(or girls)
 
