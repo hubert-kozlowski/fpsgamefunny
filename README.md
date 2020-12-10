@@ -1,4 +1,9 @@
-# fpsgamefunny
+![Contributors](https://img.shields.io/github/contributors/bIinno/fpsgamefunny?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/bIinno/fpsgamefunny?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/bIinno/fpsgamefunny?style=for-the-badge)
+
+
+# fpsgamefunny :laughing:
 Fpsgamefunny is a **F**irst **P**erson **S**hooter basically made for Speedrunning purposes. 
 
 kill the boys(or girls)
@@ -24,6 +29,4 @@ With said method of Downloading the game you can choose older versions if you pr
 
 # Speedrunning
 
-We are working on getting the game onto Speedrun.com. If you try to speedrun this game make sure to use a Timer and Record your run incase you actually get a new Record.
-Currently there are no Records for the new Version.
-
+We are working on getting the game onto [speedrun.com](https://speedrun.com). If you try to speedrun this game make sure to use a [timer](https://livesplit.org/) and [record](https://obsproject.com/) your run incase you actually get a new record.
