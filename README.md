@@ -3,7 +3,7 @@
 ![Issues](https://img.shields.io/github/issues/bIinno/fpsgamefunny?style=for-the-badge)
 
 
-# fpsgamefunny :laughing:
+# fpsgamefunny
 Fpsgamefunny is a **F**irst **P**erson **S**hooter basically made for Speedrunning purposes. 
 
 kill the boys(or girls)
